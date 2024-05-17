@@ -1,0 +1,13 @@
+21:00
+21:41 2 client1 1
+21:41 13 ClientUnknown
+21:46 4 client2
+21:46 13 ClientUnknown
+21:48 1 client1
+22:59 1 client2
+23:00 11 client1
+23:00 11 client2
+23:00
+1 0 00:00
+2 0 00:00
+3 0 00:00

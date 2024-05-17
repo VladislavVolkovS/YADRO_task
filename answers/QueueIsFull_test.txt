@@ -1,0 +1,16 @@
+21:00
+21:41 1 client1
+21:42 2 client1 1
+21:43 1 client2
+21:47 1 client3
+21:57 3 client3
+21:57 11 client3
+22:00 2 client2 1
+22:00 13 PlaceIsBusy
+22:10 4 client1
+22:10 12 client2 1
+22:30 2 client2 1
+22:30 13 PlaceIsBusy
+22:55 4 client2
+23:00
+1 20 01:13
